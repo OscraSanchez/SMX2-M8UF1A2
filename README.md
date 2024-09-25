@@ -5,4 +5,12 @@
 Es una sitio virtual en la que puedes buscar información.
 
 ## 2. ¿Qué es un sitio web?
-Es el lugar en el que se encuentran las paguinas
+Es el lugar en el que se encuentran las paginas webs.
+
+## 3. ¿Qué es una aplicación web?
+Es un software que se ejecuta en el navegador web.
+
+## 4. ¿Qué es una herramienta ofimática?
+Son aquellos programas que nos permiten manipular informáticamente la información.
+
+## 5. Herramientas de Google
