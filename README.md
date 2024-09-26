@@ -13,7 +13,7 @@ Es un software que se ejecuta en el navegador web.
 ## 4. ¿Qué es una herramienta ofimática?
 Son aquellos programas que nos permiten manipular informáticamente la información.
 
-## 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
+## 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/"Erramientas Google")
 
 | Aplicaciones| Visto|
 |---------|--------|
@@ -41,4 +41,4 @@ Son aquellos programas que nos permiten manipular informáticamente la informaci
 ```
 
 
-## 7. Que es SSC
+## 7. ¿Que es SSC?
