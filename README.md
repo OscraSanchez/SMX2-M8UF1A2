@@ -14,3 +14,7 @@ Es un software que se ejecuta en el navegador web.
 Son aquellos programas que nos permiten manipular informáticamente la información.
 
 ## 5. Herramientas de Google
+
+| Aplicaciones| Visto|
+|---------|--------|
+|Google Docs| ![Tic](https://github.com/OscraSanchez/Pruebas/blob/main/Tic.png)|
