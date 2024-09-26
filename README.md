@@ -23,3 +23,18 @@ Son aquellos programas que nos permiten manipular informáticamente la informaci
 |Google Calendar| <img src="https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/calendario.png" width="40" height="30">|
 |Google Meet| <img src="https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/ordenador.webp" width="40" height="30">|
 |...| ...|
+
+## 6. ¿Qué es un ```HTML```?
+ Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
+
+```<!DOCTYPE html>
+<HTML lang="en">
+<html>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viwport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+</body>
+</html>```
