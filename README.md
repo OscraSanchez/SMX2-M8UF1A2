@@ -45,4 +45,4 @@ Son aquellos programas que nos permiten manipular informáticamente la informaci
  Permite acceder a recursos de cálculo científico o cálculo intensivo.
 
 ## 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
-![https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/flujo%20de%20trabajo.png "Flujo de tabajo"]
+![Flujo de trabajo](https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/flujo%20de%20trabajo.png "Flujo de trabajo")
