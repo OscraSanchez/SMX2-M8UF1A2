@@ -38,6 +38,7 @@ Son aquellos programas que nos permiten manipular informáticamente la informaci
 
 </body>
 </html>
+```
 
 
 ## 7. Que es SSC
