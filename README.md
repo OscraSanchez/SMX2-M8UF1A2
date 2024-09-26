@@ -17,4 +17,4 @@ Son aquellos programas que nos permiten manipular informáticamente la informaci
 
 | Aplicaciones| Visto|
 |---------|--------|
-|Google Docs| ![Tic](https://github.com/OscraSanchez/Pruebas/blob/main/Tic.png)|
+|Google Docs| ![Tic](https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/Tic.webp)|
