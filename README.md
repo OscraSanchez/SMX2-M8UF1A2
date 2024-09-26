@@ -17,4 +17,9 @@ Son aquellos programas que nos permiten manipular informáticamente la informaci
 
 | Aplicaciones| Visto|
 |---------|--------|
-|Google Docs| <img src="https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/Tic.webp" width="40" height="30">
+|Google Docs| <img src="https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/Tic.webp" width="40" height="30">|
+|Google Slides| <img src="https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/Tic.webp" width="40" height="30">|
+|Google Sheet| <img src="https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/Tic.webp" width="40" height="30">|
+|Google Calendar| <img src="https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/calendario.png" width="40" height="30">|
+|Google Meet| <img src="https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/ordenador.webp" width="40" height="30">|
+|...| ...|
