@@ -1,7 +1,7 @@
 # Evaluación inicial
 --------------------------
 
-1. ¿Qué es una pagina web?
+### 1. ¿Qué es una pagina web?
 Es una sitio virtual en la que puedes buscar información.
 
 2. ¿Qué es un sitio web?
