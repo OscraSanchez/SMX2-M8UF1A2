@@ -41,7 +41,7 @@ Son aquellos programas que nos permiten manipular informáticamente la informaci
 ```
 
 
-### **7. ¿Que es SSC?**
+### **7. ¿Que es ```SSC```?**
  Permite acceder a recursos de cálculo científico o cálculo intensivo.
 
 ### 8. **Flujo de trabajo (navegador, petición, servidor y respuesta):**
