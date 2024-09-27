@@ -4,16 +4,16 @@
 ### 1. ¿Qué es una pagina web?
 Es una sitio virtual en la que puedes buscar información.
 
-2. ¿Qué es un sitio web?
+### 2. ¿Qué es un sitio web?
 Es el lugar en el que se encuentran las paginas webs.
 
-3. ¿Qué es una aplicación web?
+### 3. ¿Qué es una aplicación web?
 Es un software que se ejecuta en el navegador web.
 
-4. ¿Qué es una herramienta ofimática?
+### 4. ¿Qué es una herramienta ofimática?
 Son aquellos programas que nos permiten manipular informáticamente la información.
 
-5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Erramientas Google")
+### 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Erramientas Google")
 
 | Aplicaciones| Visto|
 |---------|--------|
@@ -24,7 +24,7 @@ Son aquellos programas que nos permiten manipular informáticamente la informaci
 |Google Meet| <img src="https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/ordenador.webp" width="40" height="30">|
 |...| ...|
 
-6. ¿Qué es un ```HTML```?
+### 6. ¿Qué es un ```HTML```?
  Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos.
 
 ```<!DOCTYPE html>
@@ -41,8 +41,8 @@ Son aquellos programas que nos permiten manipular informáticamente la informaci
 ```
 
 
-7. ¿Que es SSC?
+### 7. ¿Que es SSC?
  Permite acceder a recursos de cálculo científico o cálculo intensivo.
 
-8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+### 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 ![Flujo de trabajo](https://github.com/OscraSanchez/SMX2-M8UF1A2/blob/main/flujo%20de%20trabajo.png "Flujo de trabajo")
